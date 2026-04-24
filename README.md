@@ -1,4 +1,4 @@
-# Event Booking System - Frontend
+# Event Booking System
 
 ## Project Overview
 This is the frontend application for the Event Booking System. Built with React, it allows users to browse events, make bookings, and manage their profiles.
